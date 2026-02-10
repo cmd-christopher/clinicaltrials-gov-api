@@ -1,0 +1,4 @@
+interface:
+  display_name: "ClinicalTrials.gov API"
+  short_description: "Query ClinicalTrials.gov v2 study data"
+  default_prompt: "Use $clinicaltrials-gov-api to search ClinicalTrials.gov and summarize trial records with explicit query parameters."
